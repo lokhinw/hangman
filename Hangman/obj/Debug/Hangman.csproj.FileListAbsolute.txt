@@ -1,0 +1,8 @@
+C:\Users\Lokhi\documents\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Lokhi\documents\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Lokhi\documents\visual studio 2017\Projects\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Lokhi\documents\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\Lokhi\documents\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\Lokhi\documents\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.Cache
+C:\Users\Lokhi\documents\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Lokhi\documents\visual studio 2017\Projects\Hangman\Hangman\obj\Debug\Hangman.pdb
